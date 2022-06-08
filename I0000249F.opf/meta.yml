@@ -1,0 +1,27 @@
+id: I0000249F
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T12:51:26+00:00'
+last_modified: '2022-06-08T13:39:38.057962+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W2DB13644
+  title: ཉི་ཐང་སྨན་མཁྱེན་གྱི་སྨན་ཡིག་དང་ནམ་མཁའ་སེངྒེའི་སྨན་རྩིས
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    D996:
+      image_group_id: I1PD30933
+      title: ''
+      total_pages: 432
+      order: 1
+      base_file: D996.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
